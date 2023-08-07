@@ -8,6 +8,7 @@ public class LayoutClass {
     public boolean equals(@Nullable Object obj) {
         // new tag
         // already fix it, fix it again
+        // add in gitee
         return super.equals(obj);
     }
 
