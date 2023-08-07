@@ -6,7 +6,7 @@ public class LayoutClass {
 
     @Override
     public boolean equals(@Nullable Object obj) {
-        // already fix it
+        // already fix it, fix it again
         return super.equals(obj);
     }
 
