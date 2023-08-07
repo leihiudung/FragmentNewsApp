@@ -6,6 +6,7 @@ public class LayoutClass {
 
     @Override
     public boolean equals(@Nullable Object obj) {
+        // new tag
         // already fix it, fix it again
         return super.equals(obj);
     }
@@ -15,4 +16,6 @@ public class LayoutClass {
         // i am master, i create it
         return super.hashCode();
     }
+
+
 }
