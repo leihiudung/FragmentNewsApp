@@ -11,6 +11,7 @@ public class LayoutClass {
 
     @Override
     public int hashCode() {
+        // i am master
         return super.hashCode();
     }
 }
