@@ -11,6 +11,7 @@ public class LayoutClass {
 
     @Override
     public int hashCode() {
+        // i create it
         return super.hashCode();
     }
 }
