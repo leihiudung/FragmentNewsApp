@@ -8,4 +8,9 @@ public class LayoutClass {
     public boolean equals(@Nullable Object obj) {
         return super.equals(obj);
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
